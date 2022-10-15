@@ -21,9 +21,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/igarcialujan/hand-in">
+  <!-- <a href="https://github.com/igarcialujan/hand-in">
     <img src="hand-in-app/app/assets/logo.jpeg" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
   <h3 align="center">HandIn</h3>
 
