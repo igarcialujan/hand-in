@@ -93,7 +93,7 @@ Mobile App created with React Native. E-Commerce for second hand goods.
    ```
 2. Go to the project directory
    ```sh
-   cd ../(project-directory)
+   cd (project-directory)
    ```
 3. Install NPM packages
    ```sh
