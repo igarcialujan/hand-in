@@ -65,8 +65,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Mobile App created with React Native. E-Commerce for second hand goods.
     - Technologies: React Native, Expo, Formik, Yup, Lottie.
     - Use of Custom Hooks, React Navigation, cache for offline support and notifications.
